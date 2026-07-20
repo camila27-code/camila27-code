@@ -1,4 +1,4 @@
-# Olá, eu sou a Camila Lima! 
+# Olá, eu sou a Camila Lima! 👋
 
 Desenvolvedora focada em criar soluções modernas, robustas e eficientes utilizando tecnologias de ponta para Frontend, Backend e Mobile.
 
@@ -13,19 +13,19 @@ Desenvolvedora focada em criar soluções modernas, robustas e eficientes utiliz
 ### 🛠️ Minhas Tecnologias & Ferramentas
 
 #### 💻 Desenvolvimento Frontend & Mobile
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 #### ⚙️ Desenvolvimento Backend & APIs
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 #### 🗄️ Bancos de Dados
-[![My Skills](https://skillicons.dev)](https://skillicons.dev) Nota: Para SQL Server, o ícone padrão está agrupado no ecossistema SQL.
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 #### ☁️ DevOps & Ferramentas
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 #### 🎨 Design & UI/UX
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ---
 
